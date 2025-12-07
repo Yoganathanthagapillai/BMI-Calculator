@@ -7,13 +7,11 @@ Features
 
 Fast UI powered by Vit,
 Modern design with smooth styling,
-Accurate BMI calculation,
-
+Accurate BMI calculation, 
 Color-coded result indicator :
 🟦 Underweight,
 🟩 Normal,
 🟧 Overweight,
-🟥 Obese,
-
+🟥 Obese, 
 Reset button to clear inputs,
 Fully responsive
